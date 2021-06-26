@@ -12,10 +12,3 @@
 - [x] Deve ser possível alterar a propriedade **done** para _true_ de um todo pelo **ID**
 - [x] Deve ser possível excluir um todo a partir do **ID**
 
-### Regras de Negócio
-
-- [] Não deve ser possível
-- [] Não deve ser possível
-- [] Não deve ser possível
-- [] Não deve ser possível
-- [] Não deve ser possível
